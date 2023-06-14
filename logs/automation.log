@@ -1,0 +1,39 @@
+2023-06-13 23:54:21,525  INFO [main] nopCommerce:30 - ********* Launching browser***************
+2023-06-13 23:54:21,708  INFO [main] nopCommerce:37 - ********* Launching url***************
+2023-06-13 23:54:24,952  INFO [main] nopCommerce:45 - ********* Entering user info***************
+2023-06-13 23:54:25,735  INFO [main] nopCommerce:55 - ********* Click on Login Buttton***************
+2023-06-13 23:54:32,785  INFO [main] nopCommerce:100 - ********* Adding Customer Scenario started ***************
+2023-06-13 23:54:32,790  INFO [main] nopCommerce:103 - ********* user can see Dashboard ***************
+2023-06-13 23:54:36,818  INFO [main] nopCommerce:111 - ********* Click on Customer Menu ***************
+2023-06-13 23:54:41,161  INFO [main] nopCommerce:121 - ********* Click on Customer menu ***************
+2023-06-13 23:54:42,035  INFO [main] nopCommerce:129 - ********* Click on Add New Customer ***************
+2023-06-13 23:54:44,608  INFO [main] nopCommerce:138 - ********* User Can view New Customer Page ***************
+2023-06-13 23:54:44,611  INFO [main] nopCommerce:146 - ********* Providing Customer details ***************
+2023-06-13 23:54:54,113  INFO [main] nopCommerce:175 - ********* Add customer validation ***************
+2023-06-13 23:54:58,996  INFO [main] nopCommerce:30 - ********* Launching browser***************
+2023-06-13 23:54:58,999  INFO [main] nopCommerce:37 - ********* Launching url***************
+2023-06-13 23:55:00,787  INFO [main] nopCommerce:45 - ********* Entering user info***************
+2023-06-13 23:55:00,984  INFO [main] nopCommerce:55 - ********* Click on Login Buttton***************
+2023-06-13 23:55:07,804  INFO [main] nopCommerce:100 - ********* Adding Customer Scenario started ***************
+2023-06-13 23:55:07,805  INFO [main] nopCommerce:103 - ********* user can see Dashboard ***************
+2023-06-13 23:55:11,820  INFO [main] nopCommerce:111 - ********* Click on Customer Menu ***************
+2023-06-14 00:06:53,119  INFO [main] nopcommerce:62 - ********* Launching browser***************
+2023-06-14 00:06:53,148  INFO [main] nopcommerce:69 - ********* Launching url***************
+2023-06-14 00:06:54,590  INFO [main] nopcommerce:78 - ********* Entering user info***************
+2023-06-14 00:06:54,721  INFO [main] nopcommerce:88 - ********* Click on Login Buttton***************
+2023-06-14 00:07:01,269  INFO [main] nopcommerce:105 - *********Login successfull ***************
+2023-06-14 00:07:01,274  INFO [main] nopcommerce:115 - ********* Click on Logout Button***************
+2023-06-14 00:07:05,011  INFO [main] nopcommerce:105 - *********Login successfull ***************
+2023-06-14 00:07:05,017  INFO [main] nopcommerce:123 - ********* closing browser***************
+2023-06-14 00:07:10,466  INFO [main] nopcommerce:62 - ********* Launching browser***************
+2023-06-14 00:07:10,483  INFO [main] nopcommerce:69 - ********* Launching url***************
+2023-06-14 00:07:11,661  INFO [main] nopcommerce:78 - ********* Entering user info***************
+2023-06-14 00:07:11,800  INFO [main] nopcommerce:88 - ********* Click on Login Buttton***************
+2023-06-14 00:07:18,044  INFO [main] nopcommerce:105 - *********Login successfull ***************
+2023-06-14 00:07:18,048  INFO [main] nopcommerce:115 - ********* Click on Logout Button***************
+2023-06-14 00:07:21,779  INFO [main] nopcommerce:105 - *********Login successfull ***************
+2023-06-14 00:07:21,783  INFO [main] nopcommerce:123 - ********* closing browser***************
+2023-06-14 00:07:26,879  INFO [main] nopcommerce:62 - ********* Launching browser***************
+2023-06-14 00:07:26,882  INFO [main] nopcommerce:69 - ********* Launching url***************
+2023-06-14 00:07:28,147  INFO [main] nopcommerce:78 - ********* Entering user info***************
+2023-06-14 00:07:28,286  INFO [main] nopcommerce:88 - ********* Click on Login Buttton***************
